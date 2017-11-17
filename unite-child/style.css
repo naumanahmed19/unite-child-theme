@@ -1,0 +1,19 @@
+/*
+Theme Name: unite-child
+Theme URI: http://xyz.com
+Author: Nauman Ahmad
+Author URI: http://xyz.com
+Description: Multipurpose Wordpress Theme
+Template:     unite
+Version: 1.0.2
+License: GNU General Public License
+License URI: license.txt
+Text Domain: unite
+Domain Path: /languages/
+Tags: custom-background, full-width-template, sticky-post, theme-options, translation-ready, music, events
+*/
+
+@import url("../unite/style.css");
+
+/* =Its better to use theme panel css code editor.
+-------------------------------------------------------------- */
